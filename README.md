@@ -1,4 +1,4 @@
-# GitHub Profile of Marty Gleason
+# Data Science and Code Based Musings
 
 
 ## About Me
