@@ -1,5 +1,11 @@
-### Hi there 👋
+# GitHub Profile of Marty Gleason
 
+
+## About Me
+I'm a juvenile justice professional who cares about empowering communites and making sure that data is used to help, not harm. 
+
+## Big Projects
+[R4Revolution: Data Science for the People](https://organizers.science/)
 <!--
 **martin-gleason/martin-gleason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-BLAM
+
+
